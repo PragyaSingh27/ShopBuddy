@@ -8,3 +8,42 @@ This project is a starting point for a Website.
 
 A few resources to get you started:
 
+<!-- ## 📸 ScreenShots 📷 -->
+
+<div align="center">
+
+## 📷App Mock-ups📷
+
+
+
+<table>
+<tr>
+  <td><img src = "img\img1.jpg" width = 1260 height = 600></td>
+  <td><img src = "img\img2.jpg" width = 400 height = 750></td>
+  <td><img src = "img\img3.jpg" width = 400 height = 750></td>
+</tr>
+</table>
+
+</div>
+
+<!-- <img src = "images\web1.jpg" width = 1260 height = 600> -->
+
+
+<!-- ## 🔌 Dependencies
+
+| Name                                                                | Usage                                   |
+| ------------------------------------------------------------------- | --------------------------------------- |
+| [**PHP**]                | Inspired from TailwindCSS               |
+| [**JavaScript**](https://pub.dev/packages/flutter_icons)         | Social media icons                      |
+| [**Bootstrap**](https://pub.dev/packages/hovering)                   | Animation while hovering                |
+| [**percent_indicator**](https://pub.dev/packages/percent_indicator) | Circular and Linear percent indicators  |
+| [**url_launcher**](https://pub.dev/packages/url_launcher)           | A Flutter plugin for launching a URL    |
+| [**peanut**](https://pub.dev/packages/peanut)                       | Update website on Github                | -->
+## Tech Stack 
+PHP
+Javascript
+Ajax
+JQuery
+HTML
+CSS
+Bootstrap
