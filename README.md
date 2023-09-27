@@ -17,11 +17,9 @@ A few resources to get you started:
 
 
 <table>
-<tr>
-  <td><img src = "img\img1.jpg" width = 1260 height = 600></td>
-  <td><img src = "img\img2.jpg" width = 400 height = 750></td>
-  <td><img src = "img\img3.jpg" width = 400 height = 750></td>
-</tr>
+<tr><img src = "img\img1.jpg" width = 1260 height = 600></tr>
+<tr><img src = "img\img2.jpg" width = 400 height = 750></tr>
+<tr><img src = "img\img3.jpg" width = 400 height = 750></tr>
 </table>
 
 </div>
