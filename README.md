@@ -38,10 +38,10 @@ A few resources to get you started:
 | [**url_launcher**](https://pub.dev/packages/url_launcher)           | A Flutter plugin for launching a URL    |
 | [**peanut**](https://pub.dev/packages/peanut)                       | Update website on Github                | -->
 ## Tech Stack 
-PHP
-Javascript
-Ajax
-JQuery
-HTML
-CSS
-Bootstrap
+PHP<br>
+Javascript<br>
+Ajax<br>
+JQuery<br>
+HTML<br>
+CSS<br>
+Bootstrap<br>
